@@ -48,6 +48,9 @@ class SmartWallet private constructor(
 
 
 
+
+
+
     private var transactionCount: Int = 0
 
     // оператор + (пополнение)
