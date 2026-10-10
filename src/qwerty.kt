@@ -45,6 +45,9 @@ class SmartWallet private constructor(
                 "Транзакций за сессию: $transactionCount."
     }
 
+
+
+
     private var transactionCount: Int = 0
 
     // оператор + (пополнение)
